@@ -1,5 +1,6 @@
 Taller 1
 Se debe hacer esto en un Word, sin embargo todos los puntos tendran una tabla echa en excel donde se compararan los resultados
+
 	1) En este punto se hara una tabla donde se realizaran los analisis y concluciones
 	   Hacer ping estando conectado desde LAN y WLAN.
 	   hacer ping entro dos dispositivos que se encuentren conectados por LAN y WLAN
